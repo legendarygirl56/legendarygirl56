@@ -50,6 +50,10 @@
         <span>Android Studio</span><br><br><br>
         <img height="64px" src="https://2.bp.blogspot.com/-tzm1twY_ENM/XlCRuI0ZkRI/AAAAAAAAOso/BmNOUANXWxwc5vwslNw3WpjrDlgs9PuwQCLcBGAsYHQ/s1600/pasted%2Bimage%2B0.png">
       </td>
+       <td width="25%" align="center">
+        <span>Jupyter</span><br><br><br>
+        <img height="64px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/518px-Jupyter_logo.svg.png">
+      </td>
     </tr>
   </tbody>
 </table>
