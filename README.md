@@ -68,5 +68,5 @@
 - Do have a glimse on projects in which i have contributed
 - Click on the image below and fascinate yourself with our work!!
 <a href="https://github.com/The-Lazy-People">
-  <img align="left" alt="Ayushi's Organization width="1px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTNLvAhQGEKgWS2j8K5W_zSFwAoUDV0QOH2HA&usqp=CAU" />
+  <img align="left" alt="Ayushi's Organization width="1px" src="https://avatars3.githubusercontent.com/u/66350338?s=200&v=4" />
 </a>
