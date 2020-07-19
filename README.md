@@ -1,13 +1,12 @@
 <img align="right" alt="GIF"  width="370px" src="https://miro.medium.com/max/1600/0*K2WLMTExLyida7OR.gif" />
 
 ### HEY!! I M AYUSHI 
-
    <a href="https://www.linkedin.com/in/ayushi-doshi-731210191/">
-  <img align="left" alt="Ayushi's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" alt="Ayushi's LinkdeIN" width="22px" height="18px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 
  <a href="https://www.youtube.com/channel/UCWEdHn3qtkSaQifFeXQXb6Q?view_as=subscriber">
-  <img align="left" alt="Ayushi's Youtube" width="27px" src="https://img.favpng.com/18/7/22/scalable-vector-graphics-social-media-youtube-logo-png-favpng-X24i5zHCJkRER9Uik7KY0htRs.jpg" />
+  <img align="left" alt="Ayushi's Youtube" width="27px" height="20px" src="https://img.favpng.com/18/7/22/scalable-vector-graphics-social-media-youtube-logo-png-favpng-X24i5zHCJkRER9Uik7KY0htRs.jpg" />
 </a>
 </br>
 
@@ -61,12 +60,13 @@
 
 ## Show ❤️ By Starring My Repos!
 
-## Currently Doing
-- Working on my Competitive Programming Skills
+## Currently Working on
+- Competitive Programming Skills
 - Developing Android Projects
 
 ## My Organization
 - Do have a glimse on projects in which i have contributed
+- Click on the image below and fascinate yourself with our work!!
 <a href="https://github.com/The-Lazy-People">
   <img align="left" alt="Ayushi's Organization width="1px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTNLvAhQGEKgWS2j8K5W_zSFwAoUDV0QOH2HA&usqp=CAU" />
 </a>
