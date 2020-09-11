@@ -10,6 +10,8 @@
 </a>
 </br>
 
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat&logo=github)](https://github.com/legendarygirl56) [![Visitors](https://visitor-badge.glitch.me/badge?page_id=legendarygirl56.visitor-badge)](https://github.com/legendarygirl56) [![Open Source Love](https://img.shields.io/github/followers/legendarygirl56?style=social)](https://github.com/legendarygirl56?tab=followers)
+
 - 𝗜 𝗮𝗺 𝗮 𝗽𝗿𝗼𝗴𝗿𝗮𝗺𝗺𝗲𝗿
 - I ❤️ to work on Android as well !!
 - Opensource Enthusiast
